@@ -1,0 +1,1 @@
+Odin's Recipes is a recipe website prototype build with HTML and CSS only
